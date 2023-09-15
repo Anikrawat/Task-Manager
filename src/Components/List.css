@@ -1,0 +1,37 @@
+#addTask{
+    background: none;
+    border: 0.5px solid grey;
+    margin-right: 10px;
+    width: 30vh;
+    border-radius: 2px;
+    padding-left: 15px;
+}
+
+#addTask:focus{
+    outline: none;
+}
+
+#addTaskContainer{
+    margin: 30px;
+}
+
+
+#AddImageContainer{
+    border: 0.5px solid grey;
+    background-color: #8E49E9;
+    width: 50px;
+    border-radius: 2px;
+    box-shadow: 3px 3px 40px grey;
+}
+
+#mainContainer{
+    background-image: linear-gradient(#90f7ec, #32ccbc);
+}
+
+.fa-solid{
+    font-size: 35px;
+}
+
+#AddImageContainer:hover{
+    background-color: rgb(64, 206, 64);
+}

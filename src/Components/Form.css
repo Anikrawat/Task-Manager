@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    margin: 100px 0px 10px;
+    width: 20vw;
+}
+
+.mainContainer{
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.passwordForgotten{
+    text-decoration: none;
+}
